@@ -1,0 +1,13 @@
+*{
+    margin: auto;
+    background-image: url(all.jpg);
+}
+body{
+    background-color: blanchedalmond;
+    max-width: 900px;
+    margin: auto;
+}
+
+.card-content{
+    border: 1px solid #000000;
+}
